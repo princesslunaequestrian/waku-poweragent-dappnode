@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@dappnode/dappnodesdk": "^0.3.11"
+  }
+}
